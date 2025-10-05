@@ -49,8 +49,7 @@
             "github": null,
             "demo": null,
             "documentation": null
-        }
-        ,
+        },
         {
             "id": "Kondjigbale",
             "name": "Kondjigbalẽ",
@@ -72,6 +71,29 @@
             "github": null,
             "demo": null,
             "documentation": "https://documenter.getpostman.com/view/754150/2sAYJ7hKmw"
+        },
+        {
+            "id": "DokitaEyes",
+            "name": "DokitaEyes",
+            "description": "Un carnet pour un suivi médical éfficace",
+            "details": "Un super carnet pour renforcer le suivi médical de milliers de ménages en Afrique et Ailleurs",
+            "url": "https://dokitaeyes.net/",
+            "logo": "DokitaEyes.png",
+            "category": "HealthTech",
+            "tags": [
+                "HealthTech",
+                "Medical",
+                "Follow-up",
+                "Suivi médical"
+            ],
+            "founder": "AGBETIAFA Koffivi",
+            "organization": "dokitaeyes",
+            "year": 2022,
+            "status": "active",
+            "teamSize": 4,
+            "github": null,
+            "demo": null,
+            "documentation": null
         }
     ]
 }
